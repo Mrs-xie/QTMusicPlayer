@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/last.png</file>
+        <file>res/next.png</file>
+        <file>res/pause.png</file>
+        <file>res/start.png</file>
+        <file>res/slience.png</file>
+        <file>res/volume.png</file>
+        <file>res/circle.png</file>
+        <file>res/icon.png</file>
+        <file>res/loop.png</file>
+        <file>res/random.png</file>
+        <file>res/Sequential.png</file>
+        <file>res/musicPlaying.gif</file>
+        <file>res/musicPlaying.png</file>
+    </qresource>
+</RCC>
